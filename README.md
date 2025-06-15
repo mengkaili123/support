@@ -1,6 +1,5 @@
 # support
 
-# Remains – Support
 
 Thank you for using **Remains**.
 
